@@ -1,0 +1,11 @@
+# Set to false to disable verbose output
+debug = false
+
+# The secret you generated
+secret = "ee2a655d68be302a8df46d2b4c68eae6d762696e672e636f6d"
+
+# Host:port pair to run the proxy on
+bind-to = "0.0.0.0:11768"
+
+[network]
+doh-ip = "8.8.8.8"
